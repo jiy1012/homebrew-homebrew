@@ -1,4 +1,4 @@
-class CS < Formula
+class Cs < Formula
     desc "config file to golang struct ,support json,yaml,yml,toml"
     homepage "https://github.com/jiy1012/cs"
     url "https://github.com/jiy1012/cs/releases/download/v0.0.1/cs-mac.tar.gz"
