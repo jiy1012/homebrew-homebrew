@@ -5,6 +5,6 @@ class CS < Formula
     sha256 "108e64989c5397cd35e0338593be707bd5dfd7c887b27eb5531ddf019dfbea69"
     version "0.0.1"
     def install
-      bin.install "cs
+      bin.install "cs"
     end
   end
